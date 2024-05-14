@@ -1,6 +1,6 @@
 # GYIK a Békásmegyeri Logiscool új infrastruktúrájával kapcsolatban
-*Utolsó módosítás dátuma: 2024. 05. 04 12:02*
-*A GYIK tartalma módosulni fog, ha arra szükség van, kérlek, hogy kérdés előtt, nézd meg a GYIK-t, hátha találsz benne megoldást a felmerülő kérdésre, problémára*
+*Utolsó módosítás dátuma: 2024. 05. 04 12:09*
+*A GYIK tartalma módosulni fog, ha arra szükség van, kérlek, hogy kérdés előtt, nézd meg a GYIKet, hátha találsz benne megoldást a felmerülő kérdésre, problémára*
 ## Bejelentkezési információk
 ### Diákok
 Első alkalommal a diákok a my.logiscool.com-os felhasználónevükkel, jelszó használta nélkül tudnak belépni. Ezt követően kötelező lesz nekik jelszót váltzotatni. A jelszónak legalább 7 karakter hosszúnak kell lennie, és nem lehet az előző jelszó. Az egyszerűség kedvéért nincsen biztonsági követelmény (pl. Nagybetű, szám, stb.) a jelszavakhoz.
