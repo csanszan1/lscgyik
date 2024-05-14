@@ -29,3 +29,17 @@ Ilyenkor ellenőrizni kell, hogy van-e internetkapcsolat, csatlakoztatva van-e a
 ## Személyes tárhely
 Minden diák és oktató rendelkezik 200 Mb személyes tárhellyel.
 Ez az első bejelentkezés folyamán jön létre. Amennyiben ilyenkor még nem látszik a fájlkezelőben, vagy az S:\ meghajtó nem érhető el, akkor jelentkezz ki és be.
+
+## Nem változtatható beállítások diákoknak
+### Chrome
+- Chrome az alapértelmezett böngésző.
+- A diákoknak alapértelmezetten és kötelezően be van kapcsolva a Google SafeBrowsing.
+- A diákok nem tudják a Chrome hátterét változtatni
+- Amennyiben a Chrome úgy ítéli meg, hogy egy file vírust tartalmaz, akkor nem fogja engedni letölteni semmilyen körülmények között, ez nem felülírható
+- Google SafeBrowsing által veszélyesnek ítélt oldalak semmilyen körülmények között nem érhetőek el
+- Ha egy weboldalnak a HTTPS beállítása nem megfelelő, akkor az sem érhető el
+- A diákok nem tudnak bővítményeket telepíteni
+### Windows
+- Hang nem érhető el, oktató felülírhatja
+- Háttér nem változtatható
+- Nem tudnak semmilyen módosítást végezni a gépen (pl. programtelepítés, program eltávolítása, stb.)
