@@ -25,3 +25,7 @@ Ilyenkor ellenőrizni kell, hogy van-e internetkapcsolat, csatlakoztatva van-e a
 - Navigálj ide: lsc.local -> Students.
 - Keresd ki a diák nevét.
 - Majd jobb egérgombbal kattints rá, és kattints a jelszó megváltoztatása gombra.
+
+## Személyes tárhely
+Minden diák és oktató rendelkezik 200 Mb személyes tárhellyel.
+Ez az első bejelentkezés folyamán jön létre. Amennyiben ilyenkor még nem látszik a fájlkezelőben, vagy az S:\ meghajtó nem érhető el, akkor jelentkezz ki és be.
